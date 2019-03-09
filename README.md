@@ -10,3 +10,5 @@ This code also contains experiments with newer Android features I have not been 
   -     a fragment with a view model and model
   -     retrofit calls to a mock endpoint on aws
   -     primarily java but also some kotlin code
+  
+  See this repo's [wiki](https://github.com/bordercitycoder/code-samples/wiki) for details.
