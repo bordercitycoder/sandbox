@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">code_samples</string>
+    <string name="msg_invalid_userid">Please enter a valid user id. Try guest</string>
+    <string name="msg_invalid_password">Please enter a valid password. Try test</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_error_repos">An error occurred with the API</string>
+</resources>
