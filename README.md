@@ -1,4 +1,4 @@
-# David McKinnon's Code Samples
+# Code Samples
 
  
 
