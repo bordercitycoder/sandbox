@@ -14,7 +14,6 @@ import static org.mockito.Mockito.verify;
 
 public class LoginActivityPresenterTest {
 
-
     private LoginActivityPresenter presenter;
     private ILoginActivity mockView;
 
@@ -88,7 +87,6 @@ public class LoginActivityPresenterTest {
         verify(mockView).displayInvalidPassword();
         verify(mockView, never()).displayInvalidUserId();
         verify(mockView, never()).loginSuccess();
-
     }
 
 }

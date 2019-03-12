@@ -61,9 +61,7 @@ public class ListViewModel extends ViewModel {
                 memberCall = null;
             }
         });
-
     }
-
 
     @Override
     protected void onCleared() {
