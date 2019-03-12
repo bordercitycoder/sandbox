@@ -4,7 +4,7 @@ public class LoginActivityPresenter {
 
     private ILoginActivity view;
 
-    void setView(ILoginActivity view) {
+    public void setView(ILoginActivity view) {
         this.view = view;
         initializeViews();
     }
@@ -14,7 +14,7 @@ public class LoginActivityPresenter {
         view.addViewListeners();
     }
 
-    void submitLoginData(String userId, String password) {
+    public void submitLoginData(String userId, String password) {
         if (!isValidUser(userId)) {
             view.displayInvalidUserId();
         } else if (!isValidPassword(password)) {
