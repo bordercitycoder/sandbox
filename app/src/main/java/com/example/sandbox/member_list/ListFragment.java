@@ -1,4 +1,4 @@
-package com.example.code_samples.member_list;
+package com.example.sandbox.member_list;
 
 
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.code_samples.R;
-import com.example.code_samples.R2;
+import com.example.sandbox.R;
+import com.example.sandbox.R2;
 
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;

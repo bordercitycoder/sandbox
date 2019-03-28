@@ -4,7 +4,7 @@ apply plugin: 'com.jakewharton.butterknife'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.code_samples"
+        applicationId "com.example.sandbox"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

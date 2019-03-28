@@ -1,10 +1,10 @@
-package com.example.code_samples;
+package com.example.sandbox;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.code_samples.member_list.ListFragment;
+import com.example.sandbox.member_list.ListFragment;
 
 
 public class MainActivity extends AppCompatActivity {

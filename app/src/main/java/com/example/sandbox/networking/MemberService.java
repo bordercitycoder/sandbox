@@ -1,6 +1,6 @@
-package com.example.code_samples.networking;
+package com.example.sandbox.networking;
 
-import com.example.code_samples.model.Member;
+import com.example.sandbox.model.Member;
 
 import java.util.List;
 

@@ -1,7 +1,7 @@
-package com.example.code_samples;
+package com.example.sandbox;
 
-import com.example.code_samples.login.ILoginActivity;
-import com.example.code_samples.login.LoginActivityPresenter;
+import com.example.sandbox.login.ILoginActivity;
+import com.example.sandbox.login.LoginActivityPresenter;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.example.code_samples.networking;
+package com.example.sandbox.networking;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.moshi.MoshiConverterFactory;

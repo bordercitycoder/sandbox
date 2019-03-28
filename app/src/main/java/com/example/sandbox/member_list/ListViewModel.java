@@ -1,9 +1,9 @@
-package com.example.code_samples.member_list;
+package com.example.sandbox.member_list;
 
 import android.util.Log;
 
-import com.example.code_samples.model.Member;
-import com.example.code_samples.networking.MemberApi;
+import com.example.sandbox.model.Member;
+import com.example.sandbox.networking.MemberApi;
 
 import java.util.List;
 

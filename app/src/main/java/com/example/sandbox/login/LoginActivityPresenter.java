@@ -1,4 +1,4 @@
-package com.example.code_samples.login;
+package com.example.sandbox.login;
 
 public class LoginActivityPresenter {
 

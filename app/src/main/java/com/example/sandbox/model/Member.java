@@ -1,4 +1,4 @@
-package com.example.code_samples.model;
+package com.example.sandbox.model;
 
 public class Member {
     public final String first_name;

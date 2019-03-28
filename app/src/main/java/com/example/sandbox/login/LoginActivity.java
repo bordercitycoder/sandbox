@@ -1,17 +1,15 @@
-package com.example.code_samples.login;
+package com.example.sandbox.login;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.KeyEvent;
-import android.view.View;
 import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.TextView;
 
-import com.example.code_samples.MainActivity;
-import com.example.code_samples.R;
-import com.example.code_samples.utils.UiUtil;
+import com.example.sandbox.MainActivity;
+import com.example.sandbox.R;
+import com.example.sandbox.utils.UiUtil;
 import com.google.android.material.textfield.TextInputLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
